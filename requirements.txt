@@ -1,0 +1,17 @@
+langchain
+python-dotenv
+langchain-openai
+langchain-core
+langchain-community
+langchain_groq
+bs4
+faiss-cpu
+pypdf
+arxiv
+pymupdf
+wikipedia
+lxml
+langchain_huggingface
+tqdm
+langgraph
+langgraph-cli[inmem]
