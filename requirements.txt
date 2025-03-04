@@ -1,5 +1,6 @@
 langchain
 python-dotenv
+ipykernel
 langchain-openai
 langchain-core
 langchain-community
@@ -15,3 +16,4 @@ langchain_huggingface
 tqdm
 langgraph
 langgraph-cli[inmem]
+pyppeteer
